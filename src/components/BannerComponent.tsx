@@ -6,7 +6,7 @@ const BannerComponent: React.FC = () => {
       <main className="lg:h-[801px] h-full lg:py-0 py-5 w-full relative banner-gradient">
         <div className="xl:container mx-auto xl:px-0 lg:px-6 px-4 h-full">
           <div className="flex flex-col flex-wrap h-full justify-between md:pt-6 md:pb-20">
-            <div className="lg:mb-0 md:mb-20 mb-10">
+            <div className="lg:mb-0 md:mb-20 mb-10 md:mt-0 mt-6">
               <img src="/logo.svg" alt="" className="md:w-[300px] w-[150px]" />
             </div>
             <div className="md:w-[400px] w-full">

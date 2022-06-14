@@ -12,7 +12,7 @@ const Home: NextPage = () => {
     <>
       <div className="bg-white">
         <Sidebar />
-        <div className="ml-16">
+        <div className="md:ml-16">
           <BannerComponent />
           <CounterSection />
           <EventsSection />
