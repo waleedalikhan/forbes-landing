@@ -16,6 +16,9 @@ module.exports = {
     extend: {
       colors: {
         primary: "#ffd34e",
+        gradient: "#4f71c6",
+        btnYellow: "#FFD34E",
+        sideColor: "#F9F9F9",
       },
     },
   },
